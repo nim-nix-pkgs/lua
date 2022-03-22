@@ -9,7 +9,7 @@
   
   inputs.src-lua-master.flake = false;
   inputs.src-lua-master.owner = "nim-lang";
-  inputs.src-lua-master.ref   = "refs/heads/master";
+  inputs.src-lua-master.ref   = "master";
   inputs.src-lua-master.repo  = "lua";
   inputs.src-lua-master.type  = "github";
   
