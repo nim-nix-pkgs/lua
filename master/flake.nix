@@ -11,7 +11,6 @@
   inputs.src-lua-master.ref   = "refs/heads/master";
   inputs.src-lua-master.owner = "nim-lang";
   inputs.src-lua-master.repo  = "lua";
-  inputs.src-lua-master.dir   = "";
   inputs.src-lua-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
